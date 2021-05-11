@@ -1,0 +1,23 @@
+{
+  "name": "hash-routers",
+  "version": "1.0.0",
+  "description": "## 해시 라우터 구현하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoblanc/hash-routers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoblanc/hash-routers/issues"
+  },
+  "homepage": "https://github.com/seoblanc/hash-routers#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "webpack": "^5.37.0"
+  }
+}
